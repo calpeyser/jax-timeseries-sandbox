@@ -1,0 +1,5 @@
+pandas
+jax
+flax
+optax
+numpy
